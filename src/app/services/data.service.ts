@@ -23,6 +23,10 @@ export class DataService {
         name: 'nanna',
         age: 62,
       },
+      {
+        name: 'baby',
+        age: 0,
+      },
     ];
   }
 }
